@@ -2,7 +2,7 @@
 
 • Creating a portfolio website: 
 
-A showcase in creating a personal portfolio website, leveraging the HTML code, 
+A showcase in creating a personal portfolio website, leveraging the HTML5 code, 
 and promoting it in Github (file repository and webpage hosting).
 
 ## <ins>Utilizing the following tools (its functions, commands and libraries):<ins>
